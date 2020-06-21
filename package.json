@@ -1,0 +1,33 @@
+{
+  "name": "gatsby-empty-starter",
+  "version": "1.0.0",
+  "description": "an empty starter for gatsbyjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhmdAljefri/gatsby-empty-starter"
+  },
+  "keywords": [
+    "gatsbyjs",
+    "starter",
+    "react",
+    "javascript"
+  ],
+  "author": "mhmdAljefri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhmdAljefri/gatsby-empty-starter/issues"
+  },
+  "homepage": "https://github.com/mhmdAljefri/gatsby-empty-starter#readme",
+  "dependencies": {
+    "gatsby": "^2.23.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
